@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"aqwari.net/xml/xmltree"
+	"github.com/droyo/go-xml/xmltree"
 	"github.com/pquerna/ffjson/ffjson"
 	"github.com/stretchr/testify/assert"
 )
